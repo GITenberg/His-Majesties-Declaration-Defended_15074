@@ -1,0 +1,39 @@
+_repo: His-Majesties-Declaration-Defended_15074
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Davies, Godfrey
+    birthdate: 1892
+    deathdate: 1957
+    gutenberg_agent_id: '38367'
+    url: http://www.gutenberg.org/2009/agents/38367
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+description: Augustan Reprint Society, publication number 23
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15074'
+  lccn: '50009336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1660-1688'
+- !lcsh 'Great Britain. Sovereign (1660-1685 : Charles II) His Majesties declaration
+  to all his loving subjects'
+- !lcc 'DA'
+- !lcsh 'Letter from a person of quality to his friend, concerning His Majesties late
+  declaration'
+title: His Majesties Declaration Defended
+url: http://www.gutenberg.org/ebooks/15074

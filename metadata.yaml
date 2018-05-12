@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/807
     wikipedia: http://en.wikipedia.org/wiki/John_Dryden
 description: Augustan Reprint Society, publication number 23
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15074#His-Majesties-Declaration-Defended
 gutenberg_issued: '2005-02-15'
 gutenberg_type: Text
 identifiers:
